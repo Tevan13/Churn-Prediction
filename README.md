@@ -23,6 +23,10 @@ Memprediksi customerChurn dalam 1 bulankedepan denganperiode 6 bulan sebelumnya
 #### Metode pembayaran sukses dan berhasil 
 ![image](https://user-images.githubusercontent.com/82057016/216913117-b50e1520-e891-40bf-a706-ef7ac14ed8e6.png)
 
+### Baseline Model
+Pada pembuatan model disini kami menggunakan 3 Algoritma yaitu **Logistic Regression** dengan akurasi sebesar 76% , **Decision Tree** dengan akurasi sebesar 94% , dan **Random Forest** dengan akurasi sebesar 88%
+#### Berikut hasil modelling dengan digambarkan ROC dan Confusion Matrix
+![image](https://user-images.githubusercontent.com/82057016/216913986-786f704e-3ee0-4167-94f5-558cce201f1c.png)
 
 
 ### Visualisasi Data
